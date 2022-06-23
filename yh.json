@@ -75,7 +75,37 @@
 {"key":"快车","name":"✨快车","type": 0,
 "api":"https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/at/xml/"},
 {"key":"看看","name":"✨看看","type": 0,
-"api":"https://zy.hikan.xyz/api.php/provide/vod/"}
+"api":"https://zy.hikan.xyz/api.php/provide/vod/"},
+{"key": "皇冠","name": "❤️皇冠❤️","type": 0,
+"api": "https://hg913.cn/api.php/provide/vod/at/xml/"},
+{"key": "花椒","name": "❤️花椒❤️","type": 0,
+"api": "https://apihjzy.com/api.php/provide/vod/at/xml/"},
+{"key": "水蜜桃","name": "❤️水蜜桃❤️","type": 0,
+"api": "https://51smt4.xyz/api.php/provide/vod/at/xml/"},
+{"key": "葡萄","name": "❤️葡萄❤️","type": 0,
+"api": "https://caiji.putaozy.net/inc/api.php"},
+{"key": "KK","name": "❤️KK❤️","type": 0,
+"api": "https://kkzy.me/api.php/provide/vod/at/xml/"},
+{"key": "乐播","name": "❤️乐播❤️","type": 0,
+"api": "https://lbapi9.com/api.php/provide/vod/at/xml/"},
+{"key": "探探","name": "❤️探探❤️","type": 0,
+"api": "https://apittzy.com/api.php/provide/vod/at/xml/"},
+{"key": "佳丽","name": "❤️佳丽❤️","type": 0,
+"api": "https://jializyzapi.com/api.php/provide/vod/at/xml/"},
+{"key": "奶茶","name": "❤️奶茶❤️","type": 0,
+"api": "https://caiji.naichaapi.com/inc/api.php"},
+{"key": "523","name": "❤️523❤️","type": 0,
+"api": "https://caiji.523zyw.com/inc/seacmsapi.php"},
+{"key": "爱播","name": "❤️爱播❤️","type": 0,
+"api": "https://cj.apiabzy.com/api.php/provide/vod/at/xml"},
+{"key": "丝袜","name": "❤️丝袜❤️","type": 0,
+"api": "https://siwazyw.cc/api.php/provide/vod/at/xml/"},
+{"key": "秀色","name": "❤️秀色❤️","type": 0,
+"api": "https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xml/"},
+{"key": "色窝","name": "❤️色窝❤️","type": 0,
+"api": "https://sewozyapi.com/api.php/provide/vod/at/xml"}
+
+
  ],
 "lives": [
 {"group": "📺爱奇艺","channels": [
